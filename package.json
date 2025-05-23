@@ -1,6 +1,7 @@
 {
   "name": "paritips-backend",
   "version": "1.0.0",
+  "description": "Backend simple pour PariTips",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
