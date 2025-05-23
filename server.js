@@ -3,7 +3,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.get('/', (req, res) => {
-  res.send('Bienvenue sur le backend de PariTips!');
+  res.send('Bienvenue sur PariTips Backend déployé avec Render !');
 });
 
 app.listen(PORT, () => {
